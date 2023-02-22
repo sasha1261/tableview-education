@@ -10,7 +10,7 @@ import UIKit
 class FirstViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 //Protocol UITableviewDataSource
     
-    
+    //collection
     
     
    private var cellIdentifierWithImage = "cellIdentifier and Image"
