@@ -10,9 +10,12 @@ import UIKit
 class FirstViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
 //Protocol UITableviewDataSource
     
+<<<<<<< .merge_file_c5RXIU
     //collection
+=======
     //tableView
     
+>>>>>>> .merge_file_47NktR
     
     
    private var cellIdentifierWithImage = "cellIdentifier and Image"
